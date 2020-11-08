@@ -5,7 +5,6 @@ import com.evo.NEAT.genes.ConnectionGene;
 import com.evo.NEAT.genome.Genome;
 import com.zacharywarunek.Engine.*;
 import com.zacharywarunek.Driver;
-import org.warunek.kettering.Engine.*;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
